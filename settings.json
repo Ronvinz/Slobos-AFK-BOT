@@ -8,7 +8,7 @@
   "server": {
     "ip": "carp.aternos.host",
     "port": 13979,
-    "version": "1.21.1"
+    "version": "1.19.3"
   },
   "position": {
     "enabled": true,
